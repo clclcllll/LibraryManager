@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="@localhost">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.45">
+    <root id="1">
+      <DefaultCasing>mixed/mixed</DefaultCasing>
+      <ServerVersion>8.0.36</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="coursechoose"/>
+    <schema id="3" parent="1" name="db_health"/>
+    <schema id="4" parent="1" name="information_schema"/>
+    <schema id="5" parent="1" name="library"/>
+    <schema id="6" parent="1" name="mysql"/>
+    <schema id="7" parent="1" name="performance_schema"/>
+    <schema id="8" parent="1" name="sys"/>
+  </database-model>
+</dataSource>
